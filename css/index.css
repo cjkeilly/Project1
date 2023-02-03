@@ -1,0 +1,62 @@
+.navigation {
+    border-top: 0;
+    background-color: #9381FF;
+}
+
+.body {
+    background-color: #b8b8ff;
+}
+
+.footer {
+    background-color: #F8F7FF;
+}
+
+#menu {
+    background-color: #DADDD8;
+    border: 5px solid black;
+}
+
+#basic-info {
+    background-color: #C7D59F;
+    border: 5px solid black;
+}
+
+#education {
+    background-color: #B7CE63;
+    border: 5px solid black;
+}
+
+#experience {
+    background-color: #8FB339;
+    border: 5px solid black;
+}
+
+#skills {
+    background-color: #225560;
+    border: 5px solid black;
+}
+
+#interests {
+    background-color: #397367;
+    border: 5px solid black;
+}
+
+#favorite-media {
+    background-color: #63CCCA;
+    border: 5px solid black;
+}
+
+#websites {
+    background-color: #788271;
+    border: 5px solid black;
+}
+
+#projects {
+    background-color: #5DA399;
+    border: 5px solid black;
+}
+
+#feedback {
+    background-color: #42858C;
+    border: 5px solid black;
+}
