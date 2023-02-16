@@ -38,17 +38,18 @@ table, th, td {
     border: 1px solid;
 }
 
-.navigation {
-    border-top: 0;
-    background-color: #9381FF;
-}
-
 .body {
     background-color: #b8b8ff;
 }
 
 .footer {
     background-color: #F8F7FF;
+}
+
+#nav-bar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 #menu {
